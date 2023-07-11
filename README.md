@@ -6,7 +6,7 @@
 안녕하세요 Sia의 공간에 오신 것을 환영합니다
 
   #### 💞️ Contect
-  #### <a href="https://notefolio.net/"><img src="https://img.shields.io/badge/인스타그램-beige??style=for-the-badge&logo=Instagram&logoColor=E4405F"/></a> <a href="https://notefolio.net/"><img src="https://img.shields.io/badge/블로그-beige??style=for-the-badge&logo=Storyblok&logoColor=09B3AF"/></a> <a href="https://notefolio.net/"><img src="https://img.shields.io/badge/노션-beige??style=for-the-badge&logo=Notion&logoColor=#000000"/></a>
+  #### <a href="https://notefolio.net/"><img src="https://img.shields.io/badge/Instagram-E4405F??style=for-the-badge&logo=Instagram&logoColor=white"/></a> <a href="https://notefolio.net/"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00??style=for-the-badge&logo=kakaotalk&logoColor=2f1110"/></a> <a href="https://notefolio.net/"><img src="https://img.shields.io/badge/Notion-black??style=for-the-badge&logo=Notion&logoColor=White"/></a>
 
   #### ✨ Skill
   #### <img src="https://img.shields.io/badge/포토샵-55a1d8??style=plastic&logo=Adobe Photoshop&logoColor=061f34"/> <img src="https://img.shields.io/badge/일러스트레이터-f89a1c??style=for-the-badge&logo=Adobe Illustrator&logoColor=2f1110"/> <img src="https://img.shields.io/badge/인디자인-ee3868??style=for-the-badge&logo=Adobe Indesign&logoColor=450f22"/> <img src="https://img.shields.io/badge/웹플로우-4353FF??style=plastic&logo=Webflow&logoColor=white"/>
