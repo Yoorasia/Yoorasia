@@ -5,7 +5,7 @@
   ### Hi there 👋
 안녕하세요 Sia의 공간에 오신 것을 환영합니다
 
-  #### 💞️ Connect
+  #### 💞️ Contect
   #### <a href="https://notefolio.net/"><img src="https://img.shields.io/badge/인스타그램-beige??style=for-the-badge&logo=Instagram&logoColor=E4405F"/></a> <a href="https://notefolio.net/"><img src="https://img.shields.io/badge/블로그-beige??style=for-the-badge&logo=Storyblok&logoColor=09B3AF"/></a> <a href="https://notefolio.net/"><img src="https://img.shields.io/badge/노션-beige??style=for-the-badge&logo=Notion&logoColor=#000000"/></a>
 
   #### ✨ Skill
