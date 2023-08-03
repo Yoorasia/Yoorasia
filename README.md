@@ -17,8 +17,5 @@
   #### 🌱 Learning
   #### <img src="https://img.shields.io/badge/프리미어프로-9999FF??style=plastic&logo=Adobe Premiere Pro&logoColor=061f34"/> <img src="https://img.shields.io/badge/애프터이펙트-ae8edd??style=for-the-badge&logo=Adobe After Effects&logoColor=2f1110"/> <img src="https://img.shields.io/badge/드림위버-cb73af??style=for-the-badge&logo=Adobe Dreamweaver&logoColor=460436"/> <img src="https://img.shields.io/badge/리액트-4ca4bf??style=for-the-badge&logo=React&logoColor=450f22"/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyo_night)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sia)
-
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
 
